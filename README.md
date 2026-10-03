@@ -3,6 +3,8 @@ An interactive Power BI Business Intelligence solution designed to analyze reven
 📌 Project Overview
 AtliQ Grands, a luxury and business hotel chain in India, is facing market share loss and declining revenue due to strategic competitive moves and inefficient operational decision-making.
 This project delivers an executive-level Power BI Dashboard that processes historical transactional logs and booking records across May, June, and July to provide actionable intelligence on RevPAR, ADR, Occupancy %, and Realization Rates.
+<img width="780" height="446" alt="image" src="https://github.com/user-attachments/assets/4635459f-cbc1-4888-9639-d4722cba475c" />
+
 📊 Key Dashboard Insights & Features
 Executive KPI Suite: Quick insight into core metrics—Total Revenue (₹1.69Bn), Occupancy Rate (57.79%), RevPAR (₹7.34K), ADR (₹12.70K), and Realization % (80.18%) with Week-over-Week (WoW) indicators.
 Category Breakdown: Donut chart showing revenue distribution between Luxury (61.62%) and Business (38.38%) hotel segments.
